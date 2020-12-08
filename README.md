@@ -1,2 +1,2 @@
 # test
-learn github
+it is used to learn github
